@@ -1,4 +1,5 @@
 pub mod make;
+pub mod take;
 
 pub use make::*;
 use pinocchio::error::ProgramError;
